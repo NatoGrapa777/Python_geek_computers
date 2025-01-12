@@ -102,3 +102,4 @@ for i in range(3):
     buttons.append(row_buttons)
 
 root.mainloop()
+#TODO:analyze and rubick
